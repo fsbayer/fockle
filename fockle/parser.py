@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------------------------------
-# Software:      Stem Applier (staply)
-# Description:   Applies inflections to stem morphemes
+# Software:      Fockle
+# Description:   Word generator.
 # Version:       0.0.1a
 # Module:        Main
 #
@@ -25,7 +25,6 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-13SA.
 #------------------------------------------------------------------------------------------------
-
 __author__ = 'Frederic Bayer'
 
 def parse(filename):
