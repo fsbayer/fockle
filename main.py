@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------------------------------
-# Software:      Stem Applier (staply)
-# Description:   Applies inflections to stem morphemes
+# Software:      Fockle
+# Description:   Word generator.
 # Version:       0.0.1a
 # Module:        Main
 #
@@ -28,7 +28,7 @@
 __author__ = 'Frederic Bayer'
 
 # Do not change the structure of this. Many Python distributions have a lib called "parser".
-from staply import parser
+from fockle import parser
 
 def main():
     print("Welcome to staply. Please specify a formatted inflection file.")
